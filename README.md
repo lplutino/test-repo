@@ -3,5 +3,5 @@
 ### tertiary heading
 
 * first item
-* * second item
-* * third
+* second item
+* third
